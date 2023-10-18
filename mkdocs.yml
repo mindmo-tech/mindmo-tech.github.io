@@ -1,0 +1,11 @@
+site_name: MindMo Technology
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Software Development:
+      - E-Commerce: software-development/e-commerce.md
+      - Web Development: software-development/web-development.md
+      - Web Scraping: software-development/web-scraping.md
+      # - Mobile Development: software-development/mobile-development.md
+  - Contact Us: contact-us.md
